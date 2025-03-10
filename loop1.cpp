@@ -1,3 +1,4 @@
+// C++ program to print x natural no.
 #include<iostream>
 using namespace std;
 int main(){
