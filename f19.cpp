@@ -1,3 +1,4 @@
+// C++ program using local and global variables.
 #include<iostream>
 using namespace std;
 string name="Shreya";
