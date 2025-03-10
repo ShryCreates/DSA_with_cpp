@@ -1,3 +1,4 @@
+// C++ program using function to print all the odd no. between a and b.
 #include<iostream>
 using namespace std;
 bool odd(int x){
