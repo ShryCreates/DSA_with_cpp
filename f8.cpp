@@ -1,3 +1,4 @@
+// C++ program using local and global values. 
 #include<iostream>
 using namespace std;
 void twice(int p){
