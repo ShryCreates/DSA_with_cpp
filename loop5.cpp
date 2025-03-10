@@ -1,3 +1,4 @@
+// C++ program to print first multiple of 5 which is also a multiple of 7.
 #include<iostream>
 using namespace std;
 int main(){
