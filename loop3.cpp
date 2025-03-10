@@ -1,3 +1,4 @@
+// C++ program to print whole no. till x.
 #include<iostream>
 using namespace std;
 int main(){
