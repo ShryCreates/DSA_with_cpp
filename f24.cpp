@@ -1,3 +1,4 @@
+// C++ program using default parameter values.
 #include<iostream>
 using namespace std;
 int add(int=0,int=0);
