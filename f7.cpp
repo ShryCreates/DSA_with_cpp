@@ -1,3 +1,4 @@
+// C++ program using formal and actual parameters.
 #include<iostream>
 using namespace std;
 void decrease(int n1,int n2){
