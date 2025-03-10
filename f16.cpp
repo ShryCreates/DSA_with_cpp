@@ -1,3 +1,4 @@
+// C++ program to write a function to check if the person is eligible to vote or not.
 #include<iostream>
 using namespace std;
 bool checkEligible(int age,int limit){
