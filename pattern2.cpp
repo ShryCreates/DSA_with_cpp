@@ -1,4 +1,4 @@
-// C++ program to print a hollow rectangle.
+// C++ program to print a rectangle.
 #include<iostream>
 using namespace std;
 int main(){
