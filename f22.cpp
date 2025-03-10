@@ -1,3 +1,4 @@
+// C++ program using pass by reference.
 #include<iostream>
 using namespace std;
 void swap(int &x,int &y){
