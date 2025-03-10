@@ -1,3 +1,4 @@
+// C++ program using reference.
 #include<iostream>
 using namespace std;
 void twice(int &a,int &b,int &c){
