@@ -1,3 +1,4 @@
+// C++ program to print the value if it is even and divisible by three.
 #include<iostream>
 using namespace std;
 int main(){
