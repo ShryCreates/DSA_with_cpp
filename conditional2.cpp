@@ -1,3 +1,4 @@
+// C++ program to divide people in three age groups depending upon their age.
 #include<iostream>
 using namespace std;
 int main(){
