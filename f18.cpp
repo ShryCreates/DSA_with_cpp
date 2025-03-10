@@ -1,3 +1,4 @@
+// C++ program using function to print all the prime no. present between 'a' and 'b'. 
 #include<iostream>
 using namespace std;
 bool prime(int x){
